@@ -1,0 +1,37 @@
+.countdownHolder{
+	font:15px/0.7 'Roboto Condensed', sans-serif;
+}
+.position{
+	display: inline-block;
+	height:30px;
+	overflow: hidden;
+	position: relative;
+	width: 12px;
+	font-weight: 500;
+	font-size: 22px;
+	margin-top: 0;
+}
+.digit{
+	color: #fff;
+	letter-spacing: -6px;
+	left:0px;
+	bottom: 0;
+	position: absolute;
+	padding: 2px 0 0 0;
+}
+.countDays{ /* display:none !important;*/ }
+.countDiv0{ /* display:none !important;*/ }
+.countHours{}
+.countDiv1{}
+.countMinutes{}
+.countDiv2{}
+.countSeconds{}
+.countDiv{
+	display: inline-block;
+	width: 4px;
+	height: 1em;
+	position: relative;
+}
+.countDiv:after{
+	top:0.9em;
+}
