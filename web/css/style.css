@@ -89,7 +89,7 @@ body{
     background: -webkit-linear-gradient(top, rgba(172,120,87,1) 0%,rgb(234, 223, 222) 100%);
     background: -o-linear-gradient(top, rgba(172,120,87,1) 0%,rgba(114,84,82,1) 100%);
     background: -ms-linear-gradient(top, rgba(172,120,87,1) 0%,rgba(114,84,82,1) 100%);
-    background: radial-gradient(rgb(212, 52, 52) 30%,rgb(136, 72, 67) 100%);
+    background: radial-gradient(rgb(212, 52, 52) 30%,rgb(82, 26, 21) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ac7857', endColorstr='#725452',GradientType=0 );
     border-radius: 500px;
     -webkit-border-radius: 500px;
